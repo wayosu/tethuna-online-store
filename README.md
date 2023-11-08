@@ -1,7 +1,7 @@
 
 # TETHUNA ONLINE STORE
 
-Welcome to TETHUNA STORE, your premier online marketplace for a diverse range of exquisite products crafted from the finest Karawo materials. We take immense pride in curating a unique collection of items that showcase the beauty, versatility, and cultural significance of Karawo, a material known for its exceptional quality and sustainable sourcing.
+TETHUNA STORE is an online marketplace for a wide array of exquisite products crafted from the finest Karawo materials. We take great pride in curating a unique collection of items that showcase the beauty, versatility and cultural significance of Karawo, a material known for its exceptional quality and sustainable sourcing.
 
 
 ## How to set up a project
@@ -37,3 +37,11 @@ To finalize this everything, run the following commands on your terminal.
 
   php artisan server
 ```
+
+## Tech Stack
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
